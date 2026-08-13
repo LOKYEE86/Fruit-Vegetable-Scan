@@ -1,0 +1,24 @@
+# Python / Cache
+__pycache__/
+*.pyc
+.vscode/
+
+# Build artifacts & heavy directories
+build/
+data/
+models/
+downloads/
+
+# Datasets & compressed files
+*.zip
+*.tar.gz
+datasets/
+
+# Large AI model weights / output files
+*.onnx
+*.pth
+*.pt
+*.engine
+*.bin
+output*.jpg
+output*.mp4
