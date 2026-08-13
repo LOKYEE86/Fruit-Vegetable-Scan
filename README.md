@@ -15,3 +15,6 @@ The camera scans the object and it dectects what the object is and it will tell 
 2. then it will tell you what it is
 
 [View a video explanation here](file:///C:/Users/Student/Videos/2026-08-13%2011-18-43.mp4)
+
+# This is the link to my dataset: (https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
+
